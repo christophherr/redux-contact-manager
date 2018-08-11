@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import FormInputGroup from "../layout/FormInputGroup";
-import axios from "axios";
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import { addContact } from "../../actions/contactActions";
